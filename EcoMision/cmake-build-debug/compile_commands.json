@@ -1,0 +1,116 @@
+[
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\main.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\main.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/main.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\EcoMision.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\EcoMision.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/EcoMision.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/EcoMision.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\ObjetoInteractuable.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\ObjetoInteractuable.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/ObjetoInteractuable.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/ObjetoInteractuable.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\Zona.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\Zona.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/Zona.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/Zona.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\AnimalHerido.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\AnimalHerido.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/AnimalHerido.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/AnimalHerido.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\PlantaMedicinal.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\PlantaMedicinal.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/PlantaMedicinal.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/PlantaMedicinal.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\ResiduoContaminante.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\ResiduoContaminante.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/ResiduoContaminante.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/ResiduoContaminante.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\Explorador.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\Explorador.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/Explorador.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/Explorador.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\LaboratorioAmbiental.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\LaboratorioAmbiental.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/LaboratorioAmbiental.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/LaboratorioAmbiental.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\CentroRecuperacionAnimal.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\CentroRecuperacionAnimal.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/CentroRecuperacionAnimal.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/CentroRecuperacionAnimal.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\VivideroRestauracion.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\VivideroRestauracion.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/VivideroRestauracion.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/VivideroRestauracion.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\ReservaNatural.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\ReservaNatural.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/ReservaNatural.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/ReservaNatural.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\BosqueHumedo.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\BosqueHumedo.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/BosqueHumedo.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/BosqueHumedo.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\FuenteContaminada.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\FuenteContaminada.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/FuenteContaminada.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/FuenteContaminada.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\Obstaculo.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\Obstaculo.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/Obstaculo.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/Obstaculo.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\Portal.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\Portal.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/Portal.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/Portal.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\RioContaminado.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\RioContaminado.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/RioContaminado.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/RioContaminado.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\SemillaNativa.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\SemillaNativa.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/SemillaNativa.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/SemillaNativa.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EcoMision.dir\\SenderoMontania.cpp.obj -c \"C:\\Users\\User\\Documents\\Programas\\Esta carpeta si deberia estar organizada (Programas)\\EcoMision\\SenderoMontania.cpp\"",
+  "file": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/SenderoMontania.cpp",
+  "output": "C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir/SenderoMontania.cpp.obj"
+}
+]

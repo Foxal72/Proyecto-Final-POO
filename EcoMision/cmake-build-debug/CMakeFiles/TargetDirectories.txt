@@ -1,0 +1,3 @@
+C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/EcoMision.dir
+C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/Programas/Esta carpeta si deberia estar organizada (Programas)/EcoMision/cmake-build-debug/CMakeFiles/rebuild_cache.dir
